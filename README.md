@@ -1,10 +1,8 @@
 Pre-requitesites
 -----------------
 1. Git client installed.
-2. open Command Prompt
-3. execute this command git --version
-4. NodeJS 8+ installed.
-5. execute this command node --version
+2. NodeJS 8+ installed.
+
 
 Clone and Run the project
 --------------------------
