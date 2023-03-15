@@ -25,3 +25,6 @@ Automated Test cases
 
 Only automated the Severity Critical test cases as those are highly impacted to E2E testing
 
+To Install Chai Assertions 
+------------------------
+Run thi command--> npm install chai-jason-schema
